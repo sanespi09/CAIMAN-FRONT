@@ -1,0 +1,20 @@
+[
+    {
+        "artista": "Las Playas",
+        "disco": "Luces de Confianza",
+        "img": "assets/imagenes/discos/1.jpg",
+        "url": "https://open.spotify.com/album/6VBWJMu03rZEM4hmhDuQou?si=HOnrG_s0RcG9-2gcAcyRhA"
+    },
+    {
+        "artista": "ANAYA/VICH",
+        "disco": "Ascensión",
+        "img": "assets/imagenes/discos/2.jpg",
+        "url": "https://open.spotify.com/album/2j1FFYKHqRgCD0X8k8E1aS?si=NsaYmy3tTky3QNuI5lJYgw"
+    },
+    {
+        "artista": "Mateo Arce",
+        "disco": "Muchas Puertas",
+        "img": "assets/imagenes/discos/3.jpg",
+        "url": "https://open.spotify.com/album/5LZ2O4ZgVrtmcxFgAKs0Q9?si=q9fXezHjTLKBxOpZ5sS8rQ"
+    }
+]
